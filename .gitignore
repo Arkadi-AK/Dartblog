@@ -1,0 +1,11 @@
+.idea
+*.iml
+out
+gen
+/db.sqlite3
+!/django_cache/
+/media/
+SECRET_KEY.txt
+db.sqlite3
+/SECRET_KEY.txt
+/django_cache/
